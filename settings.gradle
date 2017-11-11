@@ -1,0 +1,1 @@
+include ':app', ':org.eclipse.paho.android.service-1.1.2-20171005.043126-6'
